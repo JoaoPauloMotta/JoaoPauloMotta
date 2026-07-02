@@ -2,8 +2,6 @@
 
 Undergraduate Engineering Physics Student @ **UFRGS** | Data Science & AI Enthusiast
 
-Data Scientist focused on building LLMs, intelligent chatbots, software development, and AI agents. Combining a solid background in physics, mathematics, and computation to solve complex analytical problems.
-
 * **Data Science & AI** — Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
 * **Projetos Acadêmicos** — Modelagem numérica, física computacional e instrumentação científica na UFRGS.
 * **Computação Quântica** — Estudos e desenvolvimento na área com foco em algoritmos quânticos, impulsionados pela formação complementar no curso de Computação Quântica da IBM.
