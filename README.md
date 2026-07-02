@@ -9,7 +9,7 @@ Data Scientist focused on building LLMs, intelligent chatbots, software developm
 * **Foco Profissional** — Transição e atuação dedicada às áreas de engenharia de software, ciência de dados e inteligência artificial.
 
 <p align="center">
-  <a href="https://linkedin.com/in/joaopaulomotta"><strong>🔗 LINKEDIN</strong></a>
+  <a href="https://www.linkedin.com/in/joaopbeantimotta/"><strong>🔗 LINKEDIN</strong></a>
 </p>
 
 ---
