@@ -2,9 +2,9 @@
 
 Undergraduate Engineering Physics Student @ **UFRGS** | Data Science & AI Enthusiast
 
-* **Data Science & AI** — Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
-* **Projetos Acadêmicos** — Modelagem numérica, física computacional e instrumentação científica na UFRGS.
-* **Computação Quântica** — Estudos e desenvolvimento na área com foco em algoritmos quânticos, impulsionados pela formação complementar no curso de Computação Quântica da IBM.
+* **Data Science & AI**: Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
+* **Projetos Acadêmicos**: Modelagem numérica, física computacional e instrumentação científica na UFRGS.
+* **Computação Quântica**: Estudos e desenvolvimento na área com foco em algoritmos quânticos, impulsionados pela formação complementar no curso de Computação Quântica da IBM.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopbeantimotta/"><strong>🔗 LINKEDIN</strong></a>
