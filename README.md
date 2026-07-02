@@ -6,7 +6,7 @@ Data Scientist focused on building LLMs, intelligent chatbots, software developm
 
 * **Data Science & AI** — Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
 * **Projetos Acadêmicos** — Modelagem numérica, física computacional e instrumentação científica na UFRGS.
-* **Foco Profissional** — Atuação dedicada às áreas de engenharia de software, ciência de dados e inteligência artificial.
+* **Computação Quântica** — Estudos e desenvolvimento na área com foco em algoritmos quânticos, impulsionados pela formação complementar no curso de Computação Quântica da IBM.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopbeantimotta/"><strong>🔗 LINKEDIN</strong></a>
@@ -36,4 +36,4 @@ Gerenciador de tarefas robusto desenvolvido com foco em boas práticas de progra
 
 ### física-computacional
 Repositório central focado em métodos computacionais, contendo algoritmos de diferenciação numérica (Diferença Central) e integração numérica (Regra de Simpson) aplicados a problemas de engenharia e física.
-<kbd>Python</kbd> <kbd>Numpy</kbd> <kbd>Calculus</kbd> <kbd>Numerical Methods</kbd>
+<kbd>Python</kbd> <kbd>Numpy</kbd> <kbd>Calculus</kbd> <kbd>Numerical Methods</kbd> <kbd>Quantum Computing</kbd>
