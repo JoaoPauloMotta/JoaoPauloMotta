@@ -6,7 +6,7 @@ Data Scientist focused on building LLMs, intelligent chatbots, software developm
 
 * **Data Science & AI** — Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
 * **Projetos Acadêmicos** — Modelagem numérica, física computacional e instrumentação científica na UFRGS.
-* **Foco Profissional** — Transição e atuação dedicada às áreas de engenharia de software, ciência de dados e inteligência artificial.
+* **Foco Profissional** — Atuação dedicada às áreas de engenharia de software, ciência de dados e inteligência artificial.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopbeantimotta/"><strong>🔗 LINKEDIN</strong></a>
