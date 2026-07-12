@@ -1,37 +1,19 @@
 # João Motta
 
-Undergraduate Engineering Physics Student @ **UFRGS** | Data Science & AI Enthusiast
+Undergraduate Engineering Physics Student @ **UFRGS**
 
-* **Data Science & AI**: Desenvolvimento de modelos preditivos, pipelines de dados e agentes inteligentes de IA.
-* **Projetos Acadêmicos**: Modelagem numérica, física computacional e instrumentação científica na UFRGS.
-* **Computação Quântica**: Estudos e desenvolvimento na área com foco em algoritmos quânticos, impulsionados pela formação complementar no curso de Computação Quântica da IBM.
+I'm an Engineering Physics student, a programmer by passion, and someone fascinated by quantum computing and computational modeling.
+
+### Professional
+
+I am currently studying Engineering Physics at the Federal University of Rio Grande do Sul (UFRGS). My academic focus lies at the intersection of computation, advanced mathematics, and physics, with a deep fascination for Quantum Computing—an area I constantly explore through specialized courses from IBM.
+
+I love programming, developing software architectures, and creating numerical simulations to replicate real-world physical phenomena. Whether building intelligent chatbots, analyzing linear RLC circuits, or handling data from experimental instrumentation like a Geiger counter, I am always seeking to turn complex problems into clean, functional code.
+
+### Personal
+
+Beyond physics and software engineering, I am heavily driven by high performance, metrics, and movement. Most days you will find me logging a new running target, skating around, or catching waves whenever possible. I like tracking my progression closely, believing that dedication to the daily process is what ultimately defines the final output.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopbeantimotta/"><strong>🔗 LINKEDIN</strong></a>
 </p>
-
----
-
-## Featured Projects
-
-### simulador_rlc
-Simulador numérico de circuitos RLC lineares utilizando métodos iterativos para resolução de equações diferenciais ordinárias de segunda ordem. Permite a análise de transientes e resposta em frequência.
-<kbd>Python</kbd> <kbd>Numpy</kbd> <kbd>Matplotlib</kbd> <kbd>Circuit Analysis</kbd> <kbd>Computational Physics</kbd>
-
----
-
-### medidor-geiger-arduino
-Projeto de instrumentação eletrônica e computação científica para calibração, coleta e processamento de dados em tempo real de taxas de radiação ionizante utilizando Arduino e integração com scripts de análise.
-<kbd>C++</kbd> <kbd>Arduino</kbd> <kbd>Data Acquisition</kbd> <kbd>Experimental Physics</kbd>
-
----
-
-### task_manager
-Gerenciador de tarefas robusto desenvolvido com foco em boas práticas de programação, arquitetura limpa e conceitos de Ciência da Computação para otimização de rotinas e fluxos de trabalho.
-<kbd>Python</kbd> <kbd>Software Engineering</kbd> <kbd>Data Structures</kbd>
-
----
-
-### física-computacional
-Repositório central focado em métodos computacionais, contendo algoritmos de diferenciação numérica (Diferença Central) e integração numérica (Regra de Simpson) aplicados a problemas de engenharia e física.
-<kbd>Python</kbd> <kbd>Numpy</kbd> <kbd>Calculus</kbd> <kbd>Numerical Methods</kbd> <kbd>Quantum Computing</kbd>
